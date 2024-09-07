@@ -248,12 +248,18 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Lead Software Engineer"
     location="Scriptcasters.com: OverseasBasketballConnection.com; Wilmington, DE."
     description="
-* Cofounder of Scriptcasters.com, a network of specialized professionals that create innovative technical solutions.
-* Lead the creation of a web application connecting professional basketball players with overseas teams.
-* Built the following aspects of the application:
-  * Java8, Spring MVC, Spring Security, AWS S3, Heroku, Selenium
-* Integrated APIs for additional features such as:
-  * PrintfulCountry API, MailChimp API
+* Cofounder of Scriptcasters.com, a network of specialized professionals that strive to create innovative technical solutions.
+* Hired and lead team of developers to create and maintain a web application and administrative portal for a client seeking a tech solution
+* Lead the creation of an application for a client which can connect professional basketball players with overseas teams seeking players, overseasbasketballconnection.com.
+* Working alongside one other developer, Frankie Rodriguez, we together created a very successful, popular, heavily used 3-tier platform which
+    * allows agents to post job opportunities for players to apply to
+    * allows players create a profile and apply for opportunity postings
+    * admin portal, which gives client control administrative control over the two aforementioned tiers.
+* Including integration testing, deployment, and built configuration, I built the following aspects of the application in their entirety:
+    * Java8, Spring MVC, Spring Security, AWS S3, Heroku, Selenium
+* The following APIs were leverages for additional features:
+    * PrintfulCountry API
+    * MailChimp API
 "
 %}
 
@@ -286,7 +292,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     description="
 * Lead content developer for java programming boot camp.
 * Created solutions, lectures, and curriculum for training program.
-* Assisted in the education and job-placement of junior full-stack developers.
+* Taught Core Java and and Java Web APIs using JDBC, JPA, Spring Boot, and design patterns
+* Assisted in the education and job-placement of over 200 junior full-stack application developers
 "
 %}
 
@@ -296,7 +303,9 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Contractor / Technical Instructor"
     location="JPMorgan Chase & Co.; Glasgow, United Kingdom"
     description="
-* Contracted through ZipCodeWilmington to teach web-development to JP Morgan’s developers using a stack of Maven, SpringBoot, MySQL, Angular, and Heroku.
+* Contracted through ZipCodeWilmington, served as a technical Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers located in Glasgow, Scotland.
+* The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
+The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku
 "
 %}
 
@@ -306,7 +315,9 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Contractor; Lead Technical Instructor"
     location="JPMorgan Chase & Co.; Wilmington, DE."
     description="
-* Lead instructor teaching web-development to JP Morgan developers. Course focused on collaboration through GitHub and leveraging 12-factor methodologies for real-world simulations.
+* Contracted through ZipCodeWilmington, I served as the technical Lead Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers.
+* The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
+The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku.
 "
 %}
 
@@ -316,7 +327,10 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Lead Technical Instructor"
     location="Zip Code Wilmington; Wilmington, DE."
     description="
-* Lead content developer for java programming boot camp. Taught Core Java and Java Web APIs using JDBC, JPA, and Spring Boot.
+* Lead content developer for java programming boot camp.
+* Created solutions, lectures, and curriculum for training program.
+* Taught Core Java and and Java Web APIs using JDBC, JPA, Spring Boot, and design patterns
+* Assisted in the education and job-placement of over 200 junior full-stack application developers
 "
 %}
 
@@ -326,7 +340,9 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Contractor; Technical Instructor"
     location="JPMorgan Chase & Co.; Wilmington, DE."
     description="
-* Taught Java web-development using Maven, SpringBoot, MySQL, Angular, and Heroku.
+* Contracted through ZipCodeWilmington, I served as a technical Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers.
+* The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
+The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku.
 "
 %}
 
@@ -336,7 +352,10 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Technical Instructor"
     location="Zip Code Wilmington; Wilmington, DE."
     description="
-* Taught Core Java and Java Web APIs using JDBC, JPA, and Spring Boot. Assisted in job-placement of developers.
+* Taught Core Java and and Java Web APIs using JDBC, JPA, Spring Boot, and design patterns
+* Covered advanced topics including JDBC, JPA, Reflections, Collections.
+* Lectured on design patterns in the context of advanced frameworks such as Spring Boot and Angular.
+* Assisted in the education and job-placement of over 200 junior full-stack application developers
 "
 %}
 
@@ -346,7 +365,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Test Automation Engineer"
     location="Marlette Funding; Wilmington, DE."
     description="
-* Implemented a WebCrawling framework for UI automation scripts and error reporting using Selenium, SauceLabs, and TestNG.
+* Implemented a WebCrawling framework for UI automation scripts and error reporting.
+* The application was implemented using Selenium, Selenium Grid, SauceLabs, TestNG, and Extent Reporting.
 "
 %}
 
@@ -356,7 +376,9 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Undergraduate Researcher"
     location="Optical Science Center for Applied Research (OSCAR); Dover, DE."
     description="
-* Developed a genetic algorithm to control a spatial light modulator (SLM) used for shaping the profile of a laser beam.
+* The objective of this project was to develop a genetic algorithm to control a spatial light modulator (SLM) used for shaping the profile of a laser beam.
+* Implemented [evolutionary algorithm for adaptive optics](https://github.com/Git-Leon/adaptive-optic-ga) using MatLAB
+* Interfaced MatLAB with LabVIEW software.
 "
 %}
 
@@ -366,7 +388,9 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Operations Leadership Intern"
     location="Discover Financial; New Castle, DE."
     description="
-* Implemented BEST QCAS Access Database and assisted with manual web testing.
+* Implemented BEST QCAS Access Database.
+* Manual web tester and bug reporter.
+* Implemented Microsoft Word and Excel macros using VBA to partially automate test reporting.
 "
 %}
 
@@ -376,7 +400,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Programming Tutor"
     location="Delaware State University; Dover, DE."
     description="
-* Aided learners with Python and Java projects and helped them understand programming logic.
+* Aided learners with completing projects developed in python & java.
+* Assisted with understanding of programming logic.
 "
 %}
 
@@ -386,7 +411,11 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Undergraduate Researcher"
     location="National Science Foundation (NSF); Dover, DE."
     description="
-* Developed a system for the prevention of catastrophic medical events using Arduino and eHealth sensor shield. Presented research at conferences.
+* The objective of this research was to develop a system that would aid in the prevention of catastrophic medical events through persistent intelligent monitoring and early-warning alerting.
+* Created interactive electronics using Arduino open-source prototyping platform.
+* Coded in C++ to manipulate Arduino microcontroller and eHealth sensor shield.
+* [Presented research](http://www.garyholness.com/LeonHunterERNPoster.pdf) for 2014 Science and Math Investigative Learning Experiences Program (SMILE) Undergraduate Summer Research Symposium.
+* Presented at 2014 ERN (Emerging Researchers National) conference.
 "
 %}
 
@@ -396,7 +425,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     title="Programming Tutor"
     location="Delaware State University; Dover, DE."
     description="
-* Assisted learners with Java programming and helped with understanding programming logic.
+* Aided learners with completing programs developed in java.
+* Assisted learners with conceptualizing and understanding programming logic.
 "
 %}
 
