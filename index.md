@@ -58,12 +58,16 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
         <div class="w-100">
-            <h1 class="mb-0">Leon
-                <span class="text-primary">Hunter</span>
-            </h1>
-            <div class="subheading mb-5">555 Cyberpunk Place · New Castle, DE 19720 · (302) 312-4489 ·
-                <a href="mailto:xleonhunter@gmail.com">xleonhunter@gmail.com</a>
-            </div>
+
+{{"
+# Leon Hunter
+## Senior Full Stack Java Engineer, and <br> Senior Technical Curriculum Developer
+* [xleonhunter@gmail.com](mailto:xleonhunter@gmail.com)
+* Delaware State University (2011 - 2015)
+* Bachelor of Science (BS)
+* Computer Science Major, Mathematics Minor
+" | markdownify }}
+
             <p class="lead mb-5">
             Experienced T-shaped Engineer, Curriculum Developer, and Technical Instructor with a demonstrated history of managing and up-skilling teams of Junior engineers.
             Highly skilled in Cloud Native Application Development using Java8+, Spring, Mockito, and ReactJS.
